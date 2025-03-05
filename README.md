@@ -6,3 +6,8 @@
 Showcase
 「演奏間違いを検出して楽譜上に指摘の表示をしてみる」
 関連情報です。
+
+## Lightning Talk資料（配布版）
+
+* [PDF](./slide/showing_mistakes_on_score-rel.pdf)
+* [ソースファイルなど](./slide/)
